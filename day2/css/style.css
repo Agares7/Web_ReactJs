@@ -1,0 +1,21 @@
+
+.container {
+    padding: 50px;
+    margin: auto;
+    margin-top: 40px;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 9px 10px 39px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 9px 10px 39px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 10px 39px 0px rgba(0,0,0,0.75);
+}
+
+button {
+    background-color: #A149FA;
+    color: white;
+    width: 100%;
+    font-size: 16px;
+    padding: 16px;
+    border: 0px;
+    border-radius: 8px;
+}
